@@ -14,3 +14,8 @@ Divisão de números
 Os testes foram realizados com auxilio do Junit 5
 
 ![unnamed (1)](https://github.com/MathJorge23/CalculadoraTeste/assets/108235675/e3b0c2ec-efae-4f10-ad69-09f5ff4aef0b)
+
+
+# Documentação
+
+A documentação Javadoc foi gerada para fornecer informações sobre o código-fonte e a lógica implementada.
